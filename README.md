@@ -10,5 +10,5 @@ Wireguard with GUI features are:
 - Statistics for which clients are connected.
 - Tx/Rx charts for each connected client.
 - Gravatar support.
-- 
+
 You can use my docker compose file or check at https://github.com/WeeJeWel/wg-easy.
